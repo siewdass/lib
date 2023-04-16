@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/.bin/tsc"
+    "prepare": "./node_modules/.bin/tsc"
   },
   "devDependencies": {
     "typescript": "^5.0.4"
