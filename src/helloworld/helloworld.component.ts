@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core'
   styleUrls: [ './helloworld.component.scss' ]
 } )
 
-export class X implements OnInit {
+export class AppTest implements OnInit {
 
   ngOnInit(): void {
     console.log('loool')
