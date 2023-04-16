@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@angular/core": "^15.2.7"
   }
 }
