@@ -1,4 +1,3 @@
-export const Test = {
-  value: 1,
-  tes: true
+export function main(a: number, b: number) {
+  return a + b;
 }
