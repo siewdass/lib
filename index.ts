@@ -1,3 +1,1 @@
-export function test( value: string ): number {
-  return 1
-}
+export * from './src/helloworld/helloworld.component';
