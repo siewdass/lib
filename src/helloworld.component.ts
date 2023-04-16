@@ -1,9 +1,9 @@
 import { Component, OnInit } from '@angular/core'
 
 @Component( {
-  selector: 'app-test',
-  templateUrl: './app.component.html',
-  styleUrls: [ './app.component.scss' ]
+  selector: 'hello-world',
+  templateUrl: './helloworld.component.html',
+  styleUrls: [ './helloworld.component.scss' ]
 } )
 
 export class X {
