@@ -1,5 +1,3 @@
-function test( value ) {
+export default function test( value ) {
   return 1
 }
-
-module.export = test
