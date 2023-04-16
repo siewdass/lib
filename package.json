@@ -2,7 +2,7 @@
   "name": "lib",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "build": "cmake-js compile && cp build/Release/detection.node lib/",
     "clean": "rm -rf node_modules build package-lock.json lib/detection.node"
