@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "cmake-js compile && cp build/Release/detection.node lib/",
-    "clean": "rm -rf node_modules build package-lock.json lib/detection.node",
-    "prepare": "cmake-js compile && cp build/Release/detection.node lib/"
+    "clean": "rm -rf node_modules build package-lock.json lib/detection.node"
   },
   "dependencies": {
   }
