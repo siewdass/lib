@@ -4,11 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "tsc"
   },
   "dependencies": {
-    "@angular/compiler-cli": "^15.2.7",
-    "@angular/core": "^15.2.7",
-    "typescript": "^5.0.4"
   }
 }
