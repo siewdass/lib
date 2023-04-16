@@ -1,5 +1,4 @@
-export class Test {
-  constructor(){}
-  value = 1
-  test = true
+export const Test = {
+  value: 1,
+  tes: true
 }
