@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
-import { X } from './helloworld/helloworld.component'
+import { AppTest } from './helloworld/helloworld.component'
 
 @NgModule({
   declarations: [
-    X
+    AppTest
   ],
   imports: [
 
