@@ -7,9 +7,5 @@ import { Component, OnInit } from '@angular/core'
 } )
 
 export class X {
-  constructor(){}
-  value = 1
-  omg(){
-    console.log('s')
-  }
+
 }
